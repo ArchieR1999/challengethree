@@ -5,6 +5,7 @@
 3. [ Usage. ](#usage)
 4. [ License. ](#license)
 
+<a name="desc"></a>
 ## 1. Description
 
 This challenge uses a pre-built framework of html and css code to teach about javascript capabilities. In this js file, we were tasked to create a strong password generator that would use different characters, numbers and lengths such that employers who hold sensitive data can be confident that theirs will be secured properly. This was achieved again using the knowledge learned in the module 3.
@@ -36,17 +37,20 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
-![Top-Page-Area](./assets/images/password-generator?raw=true "Top-Page-Area")
+![demo](./assets/password-generator.png?raw=true "Mock Up")
 
-## 2. Website Address
+<a name="web-address"></a>
+## 2. Website Address 
 
-PLACEHOLDER FOR EVENTUAL LINK
+https://archier1999.github.io/challengethree/
 
+<a name="usage"></a>
 ## 3. Usage
 1. Open the above URL in any browser.
 2. Press the big red button that says 'Generate Password.'
 3. Follow all prompts and you should see a result. After selecting the number of valid characters, ok is for yes and cancel is for no when the series of questions follow asking about lowercase, uppercase and special characters.
 
+<a name="license"></a>
 ## 4. License 
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
