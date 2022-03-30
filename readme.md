@@ -37,7 +37,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
-![demo](./assets/password-generator.png?raw=true "Mock Up")
+![demo](https://raw.githubusercontent.com/ArchieR1999/challengethree/main/Assets/password-generator.png "Screenshot of the challenge")
+
 
 <a name="web-address"></a>
 ## 2. Website Address 
