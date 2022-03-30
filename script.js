@@ -14,7 +14,7 @@ function generatePassword() {
     numberOfCharacters = prompt("Please enter a valid number adhereing to the ruleset.");
   }
   else {
-    alert("Your password will now contain " + numberOfCaracters + " characters.");
+    alert("Your password will now contain " + numberOfCharacters + " characters.");
   }
 
     hasLowercase = confirm("Would you like lowercase characters? For the prompts, ok is yes and cancel is no.");

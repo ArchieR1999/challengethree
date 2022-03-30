@@ -1,10 +1,15 @@
 # 03 JavaScript: Password Generator
 
-Create an application that generates a random password based on user-selected criteria. The app runs in the browser and features dynamically updated HTML and CSS powered by your JavaScript code. It has a clean and polished user interface and is responsive, which ensures that it adapts to multiple screen sizes.
+1. [ Description. ](#desc)
+2. [ Web Address. ](#web-address)
+3. [ Usage. ](#usage)
+4. [ License. ](#license)
 
-If you are unfamiliar with special characters, take a look at some [examples of special characters on the OWASP Foundation website](https://www.owasp.org/index.php/Password_special_characters).
+## 1. Description
 
-## User Story
+This challenge uses a pre-built framework of html and css code to teach about javascript capabilities. In this js file, we were tasked to create a strong password generator that would use different characters, numbers and lengths such that employers who hold sensitive data can be confident that theirs will be secured properly. This was achieved again using the knowledge learned in the module 3.
+
+### User Story
 
 ```
 AS AN employee with access to sensitive data
@@ -12,7 +17,7 @@ I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 ```
 
-## Acceptance Criteria
+### Acceptance Criteria
 
 ```
 GIVEN I need a new, secure password
@@ -31,18 +36,17 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+![Top-Page-Area](./assets/images/password-generator?raw=true "Top-Page-Area")
 
-The following image demonstrates the application functionality:
+## 2. Website Address
 
-![An app window with the label Password Generator, an input field labeled Your Secure Password, and a Generate Password button.](./Assets/03-javascript-homework-demo.png)
+PLACEHOLDER FOR EVENTUAL LINK
 
-## Review
+## 3. Usage
+1. Open the above URL in any browser.
+2. Press the big red button that says 'Generate Password.'
+3. Follow all prompts and you should see a result. After selecting the number of valid characters, ok is for yes and cancel is for no when the series of questions follow asking about lowercase, uppercase and special characters.
 
-You are required to submit the following for review:
+## 4. License 
 
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
